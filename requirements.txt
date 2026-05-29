@@ -24,6 +24,8 @@ protobuf==4.25.0
 transformers==4.40.0
 typing_extensions==4.8.0
 uvicorn==0.24.0.post1
+fastapi==0.110.0
+pydantic==2.6.4
 #xformers==0.0.22.post7
 #flash_attn==2.3.4
 sentencepiece==0.1.99
